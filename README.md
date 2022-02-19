@@ -4,6 +4,5 @@
 - 💬 Ask me about C Programming Problems.
 - 📫 How to reach me:
       [Facebook](https://www.facebook.com/maharun0/)
-      
       [Linkedin](https://www.linkedin.com/in/maharun/)
 
