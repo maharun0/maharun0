@@ -1,6 +1,6 @@
 ### Hello there, it's Maharun here 👋
 
-- 📘 C Language
+- 📘 Have learnt C and C++
 - 🌱 Currently learing JAVA | OOPs
 - 💬 Discuss project ideas with me or about any programming doubts.
 - 📫 How to reach me:
