@@ -1,8 +1,8 @@
   [![HitCount](https://hits.dwyl.com/maharun/maharun.svg?style=flat-square&show=unique)](http://hits.dwyl.com/maharun/maharun)
 
-<h1 align="center">Hello there, it's Maharun here 👋</h1>
 
----
+###Hello there, it's Maharun here 👋
+
 
 - 🌱 Currently learing **DSA**
 - 📘 Have learnt **JAVA** along with FXML for GUI
