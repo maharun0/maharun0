@@ -1,5 +1,4 @@
-[![HitCount](https://hits.dwyl.com/maharun/maharun.svg?style=flat-square)](http://hits.dwyl.com/maharun/maharun)
-[![HitCount](https://hits.dwyl.com/maharun/maharun.svg?style=flat-square&show=unique)](http://hits.dwyl.com/maharun/maharun)
+[![Profile Views](https://hits.dwyl.com/maharun/maharun.svg?style=flat-square&show=unique)](http://hits.dwyl.com/maharun/maharun)
 ### Hello there, it's Maharun here 👋
 
 - 🌱 Currently learing JAVA | OOPs
