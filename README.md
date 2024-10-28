@@ -3,10 +3,12 @@
 ### Hello there, it's Maharun here 👋
 
 .
-- 🎐 Exploring **Flutter**
-- 🌱 Currently learing **DSA**
+- 🎐 Exploring **GoLang, React, Tailwind**
+- 🌱 Currently learning **DSA**
+- 📙 Have learnt **Flutter**
 - 📘 Have learnt **JAVA** along with FXML for GUI
 - 📙 Have learnt **C** and **C++**
+
 
 .
 - 🎲 [Projects I have done...]
