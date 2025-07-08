@@ -2,13 +2,7 @@
 
 ### Hello there, it's Maharun here 👋
 
-.
-- 🎐 Exploring **GoLang, React, Tailwind**
-- 🌱 Currently learning **DSA**
-- 📙 Have learnt **Flutter**
-- 📘 Have learnt **JAVA** along with FXML for GUI
-- 📙 Have learnt **C** and **C++**
-
+[![Maharun's GitHub stats](https://github-readme-stats-six-mu-43.vercel.app/api?username=maharun0)](https://github.com/maharun0/github-readme-stats)
 
 .
 - 🎲 [Projects I have done...]
