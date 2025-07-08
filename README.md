@@ -2,8 +2,7 @@
 
 ### Hello there, it's Maharun here 👋
 
-[![Maharun's GitHub stats](https://github-readme-stats-six-mu-43.vercel.app/api?username=maharun0)](https://github.com/maharun0/github-readme-stats)
-
+[![Maharun's GitHub stats](https://github-readme-stats-maharun-afrozs-projects.vercel.app/api?username=maharun0)](https://github.com/maharun0/github-readme-stats)
 .
 - 🎲 [Projects I have done...]
     - 🔥Have worked with AI Bots.
