@@ -2,6 +2,8 @@
 
 ### Hello there, it's Maharun here 👋
 
+![Metrics](/github-metrics.svg)
+
 [![Maharun's GitHub stats](https://github-readme-stats-maharun-afrozs-projects.vercel.app/api?username=maharun0)](https://github.com/maharun0/github-readme-stats)
 .
 - 🎲 [Projects I have done...]
