@@ -87,18 +87,9 @@ Python-based scraping and organization utility producing libraries compatible wi
 ## Achievements
 
 - **ICPC Regionalist** — 2024 & 2025
-- **Kibo Robot Programming Challenge** (NASA / JAXA) — 4th place, Bangladesh
 - **HackNSU Hackathon** — 2nd Runner-Up
 - **INPC** — Female Champion
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maharun0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharun0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- **Kibo Robot Programming Challenge** (NASA / JAXA) — 4th place, Bangladesh
 
 ---
 
