@@ -12,20 +12,11 @@ Computer Science student at North South University and Junior Software Engineer 
 
 ---
 
-## About
-
-- 🎓 Computer Science & Engineering — North South University
-- 💼 Junior Software Engineer with hands-on industry experience
-- 🔧 Focused on backend architecture, distributed systems, and scalable infrastructure
-- 🧠 Active interests: RAG pipelines, semantic search, caching strategies, and real-time services
-- 🚀 Shipped production systems spanning APIs, authentication, cloud services, and mobile applications
-
----
-
 ## Technical Stack
 
 ### Backend & API Development
 <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="18"/> Python ·
   <img src="https://skillicons.dev/icons?i=fastapi" height="18"/> FastAPI ·
   <img src="https://skillicons.dev/icons?i=nodejs" height="18"/> Node.js ·
@@ -36,13 +27,16 @@ Computer Science student at North South University and Junior Software Engineer 
 
 ### Databases & Caching
 <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="18"/> PostgreSQL ·
+  <img src="https://skillicons.dev/icons?i=mysql" height="18"/> MySQL ·
   <img src="https://skillicons.dev/icons?i=mongodb" height="18"/> MongoDB ·
   <img src="https://skillicons.dev/icons?i=redis" height="18"/> Redis
 </p>
 
 ### DevOps & Cloud
 <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="18"/> Docker ·
   <img src="https://skillicons.dev/icons?i=aws" height="18"/> AWS ·
   <img src="https://skillicons.dev/icons?i=firebase" height="18"/> Firebase ·
@@ -52,16 +46,21 @@ Computer Science student at North South University and Junior Software Engineer 
 
 ### Frontend & Mobile
 <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" height="18"/> Next.js ·
   <img src="https://skillicons.dev/icons?i=react" height="18"/> React ·
+  <img src="https://skillicons.dev/icons?i=astro" height="18"/> Astro ·
   <img src="https://skillicons.dev/icons?i=tailwind" height="18"/> TailwindCSS ·
   <img src="https://skillicons.dev/icons?i=flutter" height="18"/> Flutter
 </p>
 
 ### Languages
 <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="18"/> Python ·
   <img src="https://skillicons.dev/icons?i=javascript" height="18"/> JavaScript ·
+  <img src="https://skillicons.dev/icons?i=typescript" height="18"/> TypeScript ·
+  <img src="https://skillicons.dev/icons?i=c" height="18"/> C ·
   <img src="https://skillicons.dev/icons?i=cpp" height="18"/> C++ ·
   <img src="https://skillicons.dev/icons?i=dart" height="18"/> Dart
 </p>
