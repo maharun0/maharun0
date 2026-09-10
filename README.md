@@ -11,14 +11,6 @@
 - 🧠 Also nerding out over RAG, Automation and LLM-powered apps
 - ✂️ Maintaining some of my small project websites
 
-### Connect with me:
-
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" />][linkedin]
-&nbsp;
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40px" />][email]
-&nbsp;
-[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />][github]
-
 ### Languages and Tools:
 
 <table>
@@ -119,7 +111,16 @@
 - 🚀 Kibo Robot Programming Challenge (NASA/JAXA), 4th place in Bangladesh (2025)
 - 💡 HackNSU Hackathon 2nd Runner Up (2025)
 - 👩‍💻 INPC 2023 Female Champion (16th overall of ~100)
-- 📈 [Codeforces][codeforces] Pupil, max rating 1206
+
+---
+
+### Connect with me:
+
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" />][linkedin]
+&nbsp;
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40px" />][email]
+&nbsp;
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />][github]
 
 [website]: https://maharun.dev
 [linkedin]: https://linkedin.com/in/maharun
