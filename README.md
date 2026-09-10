@@ -108,9 +108,9 @@
 ### 🏆 Wins
 
 - 🎈 ICPC Regionalist twice: 2025 with NSU XudlingPong (rank 60) & 2024 with NSU TeamAseh (rank 126)
-- 🚀 Kibo Robot Programming Challenge (NASA/JAXA), 4th place in Bangladesh (2025)
 - 💡 HackNSU Hackathon 2nd Runner Up (2025)
 - 👩‍💻 INPC 2023 Female Champion (16th overall of ~100)
+- 🚀 Kibo Robot Programming Challenge (NASA/JAXA), 4th place in Bangladesh (2025)
 
 ---
 
