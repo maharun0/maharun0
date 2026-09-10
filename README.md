@@ -1,150 +1,131 @@
-<div align="center">
+# Hi there, Maharun here! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6A11CB&height=200&section=header&text=Maharun%20Afroz&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=2x%20ICPC%20Regionalist%20%C2%B7%20Backend%20Engineer%20%C2%B7%20RAG%20%26%20AI%20Automation&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+[![Website](https://img.shields.io/website?label=maharun.dev&style=for-the-badge&url=https%3A%2F%2Fmaharun.dev)][website]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)][linkedin]
+[![ICPC x2](https://img.shields.io/badge/ICPC-Regionalist_2024_%7C_2025-1F8ACB?style=for-the-badge)](#-wins)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Shipping+RAG+%26+MCP-powered+AI+tools;Full-Stack+%26+Flutter+Developer" alt="Typing SVG" />
+## I'm a Full Stack Engineer, Competitive Programmer, and CSE Student!!
 
-<p>
-  <a href="https://maharun.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/maharun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/maharun0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:maharun.afroz0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+- 🔭 I'm currently building my own game engine in C++
+- ⚙️ Keeping FastAPI services alive in production with Docker, Nginx & GitHub Actions
+- 🧠 Also nerding out over RAG, Automation and LLM-powered apps
+- ✂️ Maintaining some of my small project websites
 
-<img src="https://komarev.com/ghpvc/?username=maharun0&label=Profile%20Views&color=6A11CB&style=flat-square" alt="Profile views" />
+### Connect with me:
 
-</div>
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" />][linkedin]
+&nbsp;
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40px" />][email]
+&nbsp;
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />][github]
 
-<br/>
-
-<div align="center">
-
-### 🧭 About
-
-<p>
-<img src="https://img.shields.io/badge/RAG_%26_MCP-AI_Automation_Tooling-0E75B6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/2x_ICPC_Regionalist-HackNSU_2nd_Runner--Up-0E75B6?style=for-the-badge&labelColor=1a1a2e"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Full--Stack_%26_Flutter-Shipped_to_Play_Store-0E75B6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/150%2B_REST_APIs-FastAPI_%C2%B7_PostgreSQL-0E75B6?style=for-the-badge&labelColor=1a1a2e"/>
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🛠️ Tech Stack
+### Languages and Tools:
 
 <table>
-<tr>
-<td align="center" width="25%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" height="32"/></td>
-<td align="center" width="25%"><b>Frontend & Mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=nextjs,react,flutter" height="32"/></td>
-<td align="center" width="25%"><b>Data & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws" height="32"/></td>
-<td align="center" width="25%"><b>AI & Automation</b><br/><br/><sub><code>RAG</code> <code>MCP</code> <code>LangChain</code> <code>FAISS</code> <code>Ollama</code></sub></td>
-</tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="28" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only" alt="Flask" title="Flask" width="28" />
+      <img src="https://cdn.simpleicons.org/flask/ffffff#gh-dark-mode-only" alt="Flask" title="Flask" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" alt="Express" title="Express" width="28" />
+      <img src="https://cdn.simpleicons.org/express/ffffff#gh-dark-mode-only" alt="Express" title="Express" width="28" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="28" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" width="28" />
+      <img src="https://cdn.simpleicons.org/ollama/000000#gh-light-mode-only" alt="Ollama" title="Ollama" width="28" />
+      <img src="https://cdn.simpleicons.org/ollama/ffffff#gh-dark-mode-only" alt="Ollama" title="Ollama" width="28" />
+      &nbsp;FAISS
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#gh-light-mode-only" alt="AWS" title="AWS S3" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg#gh-dark-mode-only" alt="AWS" title="AWS S3" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="28" />
+      <img src="https://cdn.simpleicons.org/coolify" alt="Coolify" title="Coolify" width="28" />
+      &nbsp;Dokploy
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Mobile</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-light-mode-only" alt="Next.js" title="Next.js" width="28" />
+      <img src="https://cdn.simpleicons.org/nextdotjs/ffffff#gh-dark-mode-only" alt="Next.js" title="Next.js" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="28" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Game Dev</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" title="OpenGL" width="28" />
+      &nbsp;Jolt Physics · ImGui
+    </td>
+  </tr>
+  <tr>
+    <td><b>Testing & Tools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" title="pytest" width="28" />
+      <img src="https://cdn.simpleicons.org/locust/5AA02C" alt="Locust" title="Locust" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="28" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="28" />
+    </td>
+  </tr>
 </table>
 
-</div>
+---
 
-<br/>
+### 🚀 Things I've Made
 
-<div align="center">
+- 🤖 [**WingBot**][wingbot]: a hybrid document RAG chatbot with reranking (LangChain, FAISS, FastAPI, MongoDB, Ollama)
+- 🩺 [**Med AI**][medai]: a web-based medical assistant built with FastAPI & machine learning
+- 🧠 **MEPDA**: interpretable ensemble ML for detecting postpartum depression among Bangladeshi mothers (SMOTE + LIME)
+- 🚗 **Safe Ride**: a women's safety ride platform, selected for NSU Startup Next! (Flutter, Flask, MongoDB Atlas)
 
-### 💼 Experience
+---
 
-</div>
+### 🏆 Wins
 
-| Role | Company | Duration | Highlight |
-|---|---|---|---|
-| Jr. Software Engineer | **Automata One** | May 2025 – Feb 2026 | 150+ REST APIs · Flutter lead for a 5-person team |
-| Jr. Software Engineer | **BackTrack Labs** | Jun – Sep 2025 | RESTful APIs w/ AWS S3 & JWT · automation chatbot |
-| Mobile App Developer | **Phoenix Education** | Apr – Nov 2023 | Built UniCompanion (Flutter) end-to-end |
-| Sport Programmer | **NSU Problem Solvers** | Jul 2023 – Present | Competitive programming |
+- 🎈 ICPC Regionalist twice: 2025 with NSU XudlingPong (rank 60) & 2024 with NSU TeamAseh (rank 126)
+- 🚀 Kibo Robot Programming Challenge (NASA/JAXA), 4th place in Bangladesh (2025)
+- 💡 HackNSU Hackathon 2nd Runner Up (2025)
+- 👩‍💻 INPC 2023 Female Champion (16th overall of ~100)
+- 📈 [Codeforces][codeforces] Pupil, max rating 1206
 
-<br/>
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🐝 WingBot**
-Hybrid RAG chatbot for local inference
-<sub><code>LangChain</code> <code>FAISS</code> <code>FastAPI</code> <code>Ollama</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🩺 MEPDA**
-Explainable ML for postpartum depression prediction
-<sub><code>Ensemble ML</code></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ Safe Ride**
-Women-focused ride safety platform
-<sub><code>Mobile-First</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**📚 Manga Scraper**
-Offline library tool for Mihon/Tachiyomi
-<sub><code>Python</code></sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=maharun0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharun0&layout=compact&hide_border=true&theme=tokyonight" height="150" alt="Top languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maharun0&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Achievements
-
-| Achievement | Detail |
-|---|---|
-| 🥇 ICPC Regionalist | 2024 & 2025 |
-| 🥇 IUT IUPC | 2026 |
-| 🥈 HackNSU Hackathon | 2nd Runner-Up |
-| 🏅 Intra NSU Programming Contest | Female Champion |
-| 🚀 Kibo Robot Challenge (NASA/JAXA) | 4th, Bangladesh |
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maharun0/maharun0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maharun0/maharun0/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/maharun0/maharun0/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>⚠️ Needs a one-time GitHub Action setup — see note below.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:0E75B6&height=120&section=footer&animation=fadeIn" width="100%"/>
+[website]: https://maharun.dev
+[linkedin]: https://linkedin.com/in/maharun
+[email]: mailto:maharun.afroz0@gmail.com
+[github]: https://github.com/maharun0
+[repos]: https://github.com/maharun0?tab=repositories
+[codeforces]: https://codeforces.com/profile/maharun
+[wingbot]: https://github.com/maharun0/WingBot
+[medai]: https://github.com/maharun0/Med-AI
